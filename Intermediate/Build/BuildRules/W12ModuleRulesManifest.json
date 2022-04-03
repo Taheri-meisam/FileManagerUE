@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"e:\\Unreal Projects\\W12\\Source\\W12\\W12.Build.cs",
+		"e:\\Unreal Projects\\W12\\Source\\W12.Target.cs",
+		"e:\\Unreal Projects\\W12\\Source\\W12Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "W12",
+			"Path": "E:\\Unreal Projects\\W12\\Source\\W12.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "W12Editor",
+			"Path": "E:\\Unreal Projects\\W12\\Source\\W12Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

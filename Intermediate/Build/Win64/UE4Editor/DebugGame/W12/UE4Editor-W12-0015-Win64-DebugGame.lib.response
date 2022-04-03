@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-W12-0015-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\W12\Intermediate\Build\Win64\W12Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"E:\Unreal Projects\W12\Intermediate\Build\Win64\UE4Editor\DebugGame\W12\MainPlayer.cpp.obj"
+"E:\Unreal Projects\W12\Intermediate\Build\Win64\UE4Editor\DebugGame\W12\W12.cpp.obj"
+"E:\Unreal Projects\W12\Intermediate\Build\Win64\UE4Editor\DebugGame\W12\W12GameModeBase.cpp.obj"
+"E:\Unreal Projects\W12\Intermediate\Build\Win64\UE4Editor\DebugGame\W12\MainPlayer.gen.cpp.obj"
+"E:\Unreal Projects\W12\Intermediate\Build\Win64\UE4Editor\DebugGame\W12\W12.init.gen.cpp.obj"
+"E:\Unreal Projects\W12\Intermediate\Build\Win64\UE4Editor\DebugGame\W12\W12GameModeBase.gen.cpp.obj"
+"E:\Unreal Projects\W12\Intermediate\Build\Win64\UE4Editor\DebugGame\W12\Default.rc2.res"
+/OUT:"E:\Unreal Projects\W12\Intermediate\Build\Win64\UE4Editor\DebugGame\W12\UE4Editor-W12-0015-Win64-DebugGame.lib"
